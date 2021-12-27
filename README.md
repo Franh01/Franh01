@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning at **Henry**
 
-- 📫 How to reach me **fran_lopez9@live.com**
+- 📫 Mail me **fran_lopez9@live.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

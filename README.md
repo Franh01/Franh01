@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franh01&label=Profile%20views&color=0e75b6&style=flat" alt="franh01" /> </p>
 
-- 🌱 I’m currently learning at **Henry**
-
 - 📫 Mail me **fran_lopez9@live.com**
 
 <h3 align="left">Connect with me:</h3>
